@@ -1,2 +1,17 @@
+# Common
+*.class
 target
+*.log
+
+# Eclipse
+.settings
+.project
+.classpath
+
+# Intellij
+.idea
 *.iml
+
+# OSX
+.DS_Store
+
